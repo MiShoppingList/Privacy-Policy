@@ -4,7 +4,7 @@
 
 #### Privacy Policy for Mi Shopping List
 At Mi Shopping List, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Mi Shopping List and how we use it.
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at (mishoppinglist@outlook.com).
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <mishoppinglist@outlook.com>.
 
 
 #### Log Files
