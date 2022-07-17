@@ -7,6 +7,10 @@ At Mi Shopping List, one of our main priorities is the privacy of our visitors. 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <mishoppinglist@outlook.com>.
 
 
+#### CloudKit
+Mi Shopping List uses CloudKit to sync your shops across multiple devices, or to share a shop with another Mi Shopping List user. All these shops are stored in YOUR private iCloud database! And we cannot see or modify anything of it. So it's your own responsibility to keep it up to date and secure. Also when sharing a shop it doesn't mean it's accessible for anyone. The shop still exists in YOUR private database, and CloudKit made a copy of it in the other iCloud user's private database. CloudKit then makes sure they both keep updated. 
+
+
 #### Log Files
 Mi Shopping List follows a standard procedure of using log files. These files log visitors when they use app. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, tracking users' movement on the app, and gathering demographic information.
 
