@@ -3,22 +3,20 @@
 
 
 #### Privacy Policy for Mi Shopping List
-At Mi Shopping List, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Mi Shopping List and how we use it.
+At Mi Shopping List, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by **Mi Shopping List** and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <mishoppinglist@outlook.com>.
 
 
 #### CloudKit
-Mi Shopping List uses CloudKit to sync your shops across multiple devices, or to share a shop with another Mi Shopping List user. All these shops are stored in YOUR private iCloud database! And we cannot see or modify anything of it. So it's your own responsibility to keep it up to date and secure. Also when sharing a shop it doesn't mean it's accessible for anyone. The shop still exists in YOUR private database, and CloudKit made a copy of it in the other iCloud user's private database. CloudKit then makes sure they both keep updated. 
+Mi Shopping List uses CloudKit to sync your shops across multiple devices, or to share a shop with another **Mi Shopping List** user. All these shops are stored in **YOUR** private iCloud container! And we cannot see or modify anything of it! So it's your own responsibility to keep it up to date and secure. Also when sharing a shop it doesn't mean it's accessible for anyone. The shop still exists in **YOUR** private database, and CloudKit made a copy of it in the other iCloud user's private database. CloudKit then makes sure they both keep updated. 
 
 
 #### Log Files
-Mi Shopping List follows a standard procedure of using log files. These files log visitors when they use app. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, tracking users' movement on the app, and gathering demographic information.
+Mi Shopping List follows a standard procedure of using log files. These files log visitors when they use app. The information collected by log files include internal use, date and time stamp, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of this information is for internal use only, like debugging and determing posible new features in the future or simplifyng the use of the app.
 
 
 #### Our Advertising Partners
-Some of advertisers in our app may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
-- [Google](https://policies.google.com/technologies/ads)
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+We don't have any advertising partners, we do not show any advertisments and don't sell any of your data!
 
 
 #### Privacy Policies
